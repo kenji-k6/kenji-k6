@@ -1,4 +1,5 @@
-## Hi! I am Kenji, a CS student at ETH Zurich 👋 <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg](https://upload.wikimedia.org/wikipedia/commons/9/99/ETH_Z%C3%BCrich_Logo_black.svg)" height="30" alt="eth logo"  />
+## Hi! I am Kenji, a CS student at ETH Zurich 👋
+![python logo]([http://url/to/img.png](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg))
 
 <!--
 **kenji-k6/kenji-k6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
