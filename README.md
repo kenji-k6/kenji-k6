@@ -1,8 +1,9 @@
 ## Hi! I am Kenji, a CS student at ETH Zurich 👋
-![python logo]([http://url/to/img.png](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg))
+![eth_logo_kurz_neg](https://github.com/user-attachments/assets/bd124a2b-ceb0-4f11-8db1-73ecd817937b)
 
 <!--
 **kenji-k6/kenji-k6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![eth_logo_kurz_neg](https://github.com/user-attachments/assets/bd124a2b-ceb0-4f11-8db1-73ecd817937b)
 
 Here are some ideas to get you started:
 
