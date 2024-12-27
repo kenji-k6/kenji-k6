@@ -1,9 +1,10 @@
-## Hi! I am Kenji, a CS student at ETH Zurich 👋
-![eth_logo_kurz_neg](https://github.com/user-attachments/assets/bd124a2b-ceb0-4f11-8db1-73ecd817937b)
+## Hi! I am Kenji, a CS student at ETH Zurich ![eth_logo_kurz_pos](https://github.com/user-attachments/assets/1d0621ff-33b9-4681-b081-2f5147eed404)
+
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg](https://github.com/user-attachments/assets/1d0621ff-33b9-4681-b081-2f5147eed404)" height="30" alt="java logo"  />
+
 
 <!--
 **kenji-k6/kenji-k6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![eth_logo_kurz_neg](https://github.com/user-attachments/assets/bd124a2b-ceb0-4f11-8db1-73ecd817937b)
 
 Here are some ideas to get you started:
 
